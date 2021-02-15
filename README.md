@@ -53,3 +53,7 @@
 
 `git push -u origin --tags`
 
+
+### change remote url
+
+`git remote set-url origin URL`
